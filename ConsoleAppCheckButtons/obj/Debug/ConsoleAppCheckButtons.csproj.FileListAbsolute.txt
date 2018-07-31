@@ -1,0 +1,12 @@
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\ConsoleAppCheckButtons.exe.config
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\ConsoleAppCheckButtons.exe
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\ConsoleAppCheckButtons.pdb
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\WebDriver.dll
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\WebDriver.Support.dll
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\WebDriver.xml
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\bin\Debug\WebDriver.Support.xml
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\obj\Debug\ConsoleAppCheckButtons.csprojAssemblyReference.cache
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\obj\Debug\ConsoleAppCheckButtons.csproj.CoreCompileInputs.cache
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\obj\Debug\ConsoleAppCheckButtons.csproj.CopyComplete
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\obj\Debug\ConsoleAppCheckButtons.exe
+c:\users\gperez\source\repos\ConsoleAppCheckButtons\ConsoleAppCheckButtons\obj\Debug\ConsoleAppCheckButtons.pdb
